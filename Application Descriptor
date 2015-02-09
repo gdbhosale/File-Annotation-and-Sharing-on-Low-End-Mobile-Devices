@@ -1,0 +1,9 @@
+MIDlet-1: MIDlet-1,,XMLJ2MEFileRead
+MIDlet-Jar-URL: XMLJ2MEFileRead.jar
+MIDlet-Icon: folder-find-icon-small.png
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: XMLJ2MEFileRead
+MIDlet-Vendor: Shweta Guja
+MicroEdition-Profile: MIDP-2.1
+MIDlet-Permissions: javax.microedition.io.Connector.file.write,javax.microedition.io.Connector.file.read,javax.microedition.io.Connector.comm,javax.microedition.io.Connector.serversocket,javax.microedition.io.Connector.socket,javax.microedition.io.Connector.bluetooth.client,javax.microedition.io.Connector.bluetooth.server
